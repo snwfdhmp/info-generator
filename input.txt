@@ -1,0 +1,5 @@
+INSERT INTO user VALUES(@_prenom_)
+INSERT INTO user VALUES(@_prenom_)
+INSERT INTO user VALUES(@_prenom_)
+INSERT INTO user VALUES(@_prenom_)
+
